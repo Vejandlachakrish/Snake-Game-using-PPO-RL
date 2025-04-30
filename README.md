@@ -30,21 +30,21 @@ The repository contains the following files and directories:
 
 Follow the steps below to get started with this project:
 
-### 1. Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/Vejandlachakrish/Snake-Game-using-PPO-RL.git
 ```
-### 2. Navigate to the project directory
+2. Navigate to the project directory
 ```bash
 cd Snake-Game-using-PPO-RL
 ```
-### 3. Install the required dependencies
+3. Install the required dependencies
 Before running the application, install the required Python dependencies by running:
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Run the training script
+4. Run the training script
 To train the PPO agent, run:
 
 ```bash
