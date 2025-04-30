@@ -50,7 +50,7 @@ To train the PPO agent, run:
 ```bash
 python train.py
 ```
-### 5. Visualize the agent playing the game
+5. Visualize the agent playing the game
 Once the agent is trained, you can visualize the agent playing the game by running the following:
 
 ```bash
